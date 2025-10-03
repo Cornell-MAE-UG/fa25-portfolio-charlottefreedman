@@ -8,12 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "assets/Charlotte Freedman Resume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:cmf277@cornell.edu) | | | **Phone:** +1 978 760 6995
+**Email:** [cmf277D@cornell.edu](mailto:cmf277@cornell.edu) | | | **Phone:** +1 978 760 6995
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring biomedical engineering student
 
 ---
 
@@ -29,9 +29,9 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** SolidWorks
 - **Programming:** Python, C++, Java  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** Excel 
 
 ---
 
@@ -49,22 +49,32 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Draper Laboratory - Intern**  
+  [May, 2025] - [August, 2025]  
+  - Chemical and Biological Laboratory Experience
+  - Systems Engineering
+  - Internal Research and Development
+  - Supply Chain Risk Management 
+
+- **Shaws Market - Front End Manager and Customer Service Representative**  
+  [August, 2021] - [January, 2024]  
+  - Managed a team of 10+ cashiers, providing support, training and guidance as needed
+  - Authorized special actions and discounts to resolve customer disputes and maintain satisfaction
+  - Developed strong customer relationships and loyalty through effective communication
+  - Processed orders, returns, and exchanges in an accurate and efficient manner 
+
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- CPR
+- First Aid
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Member of Cornell Tradition Fellowship [Fall 2024 - Fall 2025]  
+- Volunteer for The American Red Cross  
 
 ---
 
