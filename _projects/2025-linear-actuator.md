@@ -6,8 +6,6 @@ technologies: none
 image: /assets/images/linear-actuator-sketch.png
 ---
 
-![Sketch of problem]({{"assets/images/linear-actuator-sketch.png" | relative_url }}){: .inline-image-l style="width: 75%}
-
 #### Project Overview and Objective
 
 In ENGRD 2020, students were given the following problem: 
@@ -34,6 +32,10 @@ When a mass is added on the bar, the weight acts in the negative j direction. On
 
 [Deflection and Cross Section Analysis]({{"assets/images/statics-portfolio-work.jpg" | relative_url }}){: .inline-image-l style="width: 100%}
 
-Here you can see the work done in analyzing deformation
+Here you can see the work done in analyzing the deformation.
 
-[Cross Section]({{"assets/images/statics-portfolio-work.jpg" | relative_url }}){: .inline-image-l style="width: 100%}
+#### Final Design
+
+We now know how the beam will deform along with the value of I. Using Appendix D from Beer et. al., I would use W150x24 for my design case as seen below.
+
+[Cross Section]({{"assets/images/cross-section-design.png" | relative_url }}){: .inline-image-l style="width: 100%}
