@@ -4,6 +4,7 @@ title: Linear Actuator Optimization
 description: Portfolio creation for ENGRD 2020
 technologies: none
 image: /assets/images/linear-actuator-sketch.png
+image: assets/images/statics-portfolio-work.jpg
 ---
 
 #### Project Overview and Objective
@@ -30,6 +31,3 @@ In a pin-pin system, maximum deflection occurs at the midway point between to th
 
 When a mass is added on the bar, the weight acts in the negative j direction. Only the perpendicular components of the weight contribute to the deformation of our bar. This is maximized when theta=0 due to the bar being perpendicular to the weight, meaning the linear actuator is applying a force of 0kN.
 
----
-image: /assets/images linear-actuator-sketch.png
----
