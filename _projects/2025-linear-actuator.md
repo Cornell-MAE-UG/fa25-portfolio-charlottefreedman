@@ -50,3 +50,4 @@ We now know how the beam will deform along with the value of I. Using Appendix D
 
 
 
+thank you
