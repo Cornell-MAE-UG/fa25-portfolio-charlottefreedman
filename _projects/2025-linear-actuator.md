@@ -36,18 +36,6 @@ Here you can see the work done in analyzing the deformation.
 
 #### Final Design
 
+![Cross Section]({{"assets/images/cross-section-design.png" | relative_url }}){: .inline-image-l style="width: 60%}
+
 We now know how the beam will deform along with the value of I. Using Appendix D from Beer et. al., I would use W150x24 made from rolled steel for my design case as seen below.
-
-![Cross Section]({{"assets/images/cross-section-design.png" | relative_url }}){: .inline-image-l style="width: 75%}
-
-
-
-
-
-
-
-
-
-
-
-thank you
