@@ -38,4 +38,4 @@ Here you can see the work done in analyzing the deformation.
 
 We now know how the beam will deform along with the value of I. Using Appendix D from Beer et. al., I would use W150x24 for my design case as seen below.
 
-[Cross Section]({{"assets/images/cross-section-design.png" | relative_url }}){: .inline-image-l style="width: 100%}
+![Cross Section]({{"assets/images/cross-section-design.png" | relative_url }}){: .inline-image-l style="width: 100%}
